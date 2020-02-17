@@ -35,4 +35,4 @@ jobs:
 
       # run tests!
       - run: npm test
-      - run echo Hello tal akalo 
+      - run: echo Hello tal akalo 
